@@ -8,7 +8,9 @@ Ce projet explore différents modèles de réseaux de neurones convolutifs pour 
 - 🔍 Utilisation de la base de données *Face Mask* pour entraîner et évaluer les modèles.
 - 🛠️ Les données sont prétraitées via des techniques de redimensionnement, normalisation et augmentation pour améliorer la qualité de l'entraînement.
 - 📊 Plusieurs modèles, entraînés à partir de zéro ou basés sur le transfert d'apprentissage, sont comparés pour leurs performances respectives.
-
+### **🔗 Lien vers la Base de Données :**
+Vous pouvez télécharger la base de données *Face Mask* à partir du lien suivant :  
+[Face Mask Dataset](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)
 ---
 
 ## **2. 🧠 Modèles Utilisés**
